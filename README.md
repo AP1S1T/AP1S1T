@@ -5,7 +5,7 @@ I'm passionate about computational structures in civil engineering and exploring
 
 *   🌍  I'm based in Bangkok
 *   ✉️  You can contact me at [apisit65a@gmail.com](mailto:apisit65a@gmail.com)
-*   🧠  I'm learning Physics-Informed Neural Networks (PINNs): Applying PINNs for structural analysis in civil engineering. Machine Learning in Civil Engineering: Leveraging AI to improve structural analysis, design, and prediction models.
+*   🧠  I'm learning Physics-Informed Neural Networks (PINNs): Applying PINNs for Computational mechanics in civil engineering. Machine Learning in Civil Engineering: Leveraging AI to improve Mechanics problems, design, and prediction models.
 *   <a href="https://www.github.com/AP1S1T" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/AP1S1T?logo=github&style=for-the-badge&color=ef4444&labelColor=ffffff" /></a>
   ### Skills 
