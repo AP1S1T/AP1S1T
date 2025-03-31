@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Apisit Robjanghvad
 ==========================================================================================================================================
 
-I'm passionate about computational structures in civil engineering and exploring the potential of AI and machine learning in this field. My primary interest lies in integrating AI to solve complex problems in civil engineering, especially focusing on Physics-Informed Neural Networks (PINNs) and other machine learning techniques.
+I'm passionate about computational mechanics in geotechnical engineering and exploring the potential of AI and machine learning in this field. My primary interest lies in integrating AI to solve complex problems in civil engineering, especially focusing on Physics-Informed Neural Networks (PINNs) and other machine learning techniques.
 
 * 🌍  I'm based in Bangkok
 * ✉️  You can contact me at [apisit65a@gmail.com](mailto:apisit65a@gmail.com)
