@@ -32,4 +32,3 @@ src="https://img.shields.io/github/followers/AP1S1T?logo=github&style=for-the-ba
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/AP1S1T/PINNs-SlopeStability-MultiLayer" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AP1S1T&repo=PINNs-SlopeStability-MultiLayer&title_color=0891b2&text_color=000000&icon_color=ef4444&bg_color=ffffff&hide_border=true&locale=en" /></a></div>
