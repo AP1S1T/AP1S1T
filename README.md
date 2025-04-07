@@ -30,10 +30,6 @@ src="https://img.shields.io/github/followers/AP1S1T?logo=github&style=for-the-ba
 
 <a href="https://github.com/AP1S1T" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AP1S1T&langs_count=10&title_color=0891b2&text_color=000000&icon_color=ef4444&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/AP1S1T/PiNNs-for-Slope-Stability-analysis" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AP1S1T&repo=PiNNs-for-Slope-Stability-analysis&title_color=0891b2&text_color=000000&icon_color=ef4444&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/AP1S1T/PINNs-SlopeStability-MohrCoulomb" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AP1S1T&repo=PINNs-SlopeStability-MohrCoulomb&title_color=0891b2&text_color=000000&icon_color=ef4444&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
 <br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/AP1S1T/PINNs-SlopeStability-MultiLayer" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AP1S1T&repo=PINNs-SlopeStability-MultiLayer&title_color=0891b2&text_color=000000&icon_color=ef4444&bg_color=ffffff&hide_border=true&locale=en" /></a></div>
