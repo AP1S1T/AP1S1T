@@ -35,7 +35,11 @@ src="https://img.shields.io/github/followers/AP1S1T?logo=github&style=for-the-ba
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Plaxis_logo.svg/2560px-Plaxis_logo.svg.png" width="100" height="36" alt="Plaxis 2D" />
 </p>
 
-
+### Academic Achievements
+   - <img src="https://cdn-icons-png.flaticon.com/512/7614/7614875.png" width="20" height="20"/> **The Honors Physics Program Class 2021 GENERAL PHYSICS FOR ENGINEERING STUDENTS I & II**
+   - <img src="https://cdn-icons-png.flaticon.com/512/3471/3471391.png" width="20" height="20"/> **Top 1% (88.75/100) Mathematic O-NET Score 2021**
+   - <img src="https://cdn-icons-png.flaticon.com/512/2072/2072282.png" width="20" height="20"/> **Thailand Earth Sciene Olympaid (TESO) 2020 Mahidol Kanchanaburi campus second training camp.**
+   - <img src="https://cdn-icons-png.flaticon.com/512/4776/4776049.png" width="20" height="20"/> **STEM Project Competation (2018)**
 
 ### Socials
 
