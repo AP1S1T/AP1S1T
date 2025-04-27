@@ -28,8 +28,9 @@ src="https://img.shields.io/github/followers/AP1S1T?logo=github&style=for-the-ba
 ### Software
 <p align="left">
   <img src="https://usoftly.ir/wp-content/uploads/2022/02/CSI-SAP2000-Ultimate-23.3.1-Build-1784-x64.png" width="36" height="36" alt="SAP2000" />
-  <img src="https://5.imimg.com/data5/SELLER/Default/2024/1/380527041/TE/IN/EX/3292465/revit-3d-architecture-software.png" width="36" height="36" alt="Revit 3D" />
   <img src="https://ciptasatria.com/wp-content/uploads/autodesk-robot-structural-analysis-professional-product-icon.svg" width="36" height="36" alt="Robot Structural Analysis" />
+  <img src="https://yt3.googleusercontent.com/ytc/AIdro_myqIoucUGa3l_JnB_QpmOJhMscYDqEcMEOnjgkRHFDEI4=s900-c-k-c0x00ffffff-no-rj" width="40" height="40" alt="Tekla Structural Design" />
+  <img src="https://5.imimg.com/data5/SELLER/Default/2024/1/380527041/TE/IN/EX/3292465/revit-3d-architecture-software.png" width="36" height="36" alt="Revit 3D" />
   <img src="https://static.wikia.nocookie.net/logopedia/images/a/a5/AutoCAD_2023_icon.png/revision/latest/scale-to-width-down/250?cb=20220423125418" width="36" height="36" alt="Autocad" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Plaxis_logo.svg/2560px-Plaxis_logo.svg.png" width="100" height="36" alt="Plaxis 2D" />
 </p>
