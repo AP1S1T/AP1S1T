@@ -37,7 +37,7 @@ src="https://img.shields.io/github/followers/AP1S1T?logo=github&style=for-the-ba
 
 ### Academic Achievements
    - <img src="https://cdn-icons-png.flaticon.com/512/7614/7614875.png" width="20" height="20"/> **The Honors Physics Program Class 2021 GENERAL PHYSICS FOR ENGINEERING STUDENTS I & II**
-   - <img src="https://cdn-icons-png.flaticon.com/512/3471/3471391.png" width="20" height="20"/> **Top 1% (88.75/100) Mathematic O-NET Score 2021**
+   - <img src="https://cdn-icons-png.flaticon.com/512/3471/3471391.png" width="20" height="20"/> **Top 1% (87.50/100) Mathematic O-NET Score 2021**
    - <img src="https://cdn-icons-png.flaticon.com/512/2072/2072282.png" width="20" height="20"/> **Thailand Earth Sciene Olympaid (TESO) 2020 Mahidol Kanchanaburi campus second training camp.**
    - <img src="https://cdn-icons-png.flaticon.com/512/4776/4776049.png" width="20" height="20"/> **STEM Project Competation (2018)**
 
