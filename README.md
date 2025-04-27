@@ -10,12 +10,11 @@ I'm passionate about intelligent computational mechanics in geotechnical enginee
 <a href="https://www.github.com/AP1S1T" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/AP1S1T?logo=github&style=for-the-badge&color=ef4444&labelColor=ffffff" /></a>
 
-### Skills
-
-
+### Coding with
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40" alt="MATLAB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" height="36" alt="VS Code" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="36" alt="Jupyter" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" />
@@ -23,8 +22,17 @@ src="https://img.shields.io/github/followers/AP1S1T?logo=github&style=for-the-ba
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
   <img src="https://avatars.githubusercontent.com/u/3868708?s=200&v=4" width="36" height="36" alt="FEniCS" />
+  <img src="https://www.manim.community/logo.svg" width="40" height="40" alt="Manim" />
 </p>
 
+### Software
+<p align="left">
+  <img src="https://usoftly.ir/wp-content/uploads/2022/02/CSI-SAP2000-Ultimate-23.3.1-Build-1784-x64.png" width="36" height="36" alt="SAP2000" />
+  <img src="https://5.imimg.com/data5/SELLER/Default/2024/1/380527041/TE/IN/EX/3292465/revit-3d-architecture-software.png" width="36" height="36" alt="Revit 3D" />
+  <img src="https://ciptasatria.com/wp-content/uploads/autodesk-robot-structural-analysis-professional-product-icon.svg" width="36" height="36" alt="Robot Structural Analysis" />
+  <img src="https://static.wikia.nocookie.net/logopedia/images/a/a5/AutoCAD_2023_icon.png/revision/latest/scale-to-width-down/250?cb=20220423125418" width="36" height="36" alt="Autocad" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Plaxis_logo.svg/2560px-Plaxis_logo.svg.png" width="100" height="36" alt="Plaxis 2D" />
+</p>
 
 
 
