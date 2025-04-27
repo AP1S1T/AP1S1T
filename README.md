@@ -22,7 +22,7 @@ src="https://img.shields.io/github/followers/AP1S1T?logo=github&style=for-the-ba
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
-  <img src="https://fenicsproject.org/logos/fenics-icon-200.png" width="36" height="36" alt="FEniCS" />
+  <img src="https://avatars.githubusercontent.com/u/3868708?s=200&v=4" width="36" height="36" alt="Jupyter" />
 </p>
 
 
