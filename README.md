@@ -7,9 +7,6 @@ I'm passionate about intelligent computational mechanics in geotechnical enginee
 * ✉️  You can contact me at [apisit65a@gmail.com](mailto:apisit65a@gmail.com)
 * 🧠  I'm learning Physics-Informed Neural Networks (PINNs): Applying PINNs for computational mechanics in civil engineering. Machine Learning in Civil Engineering: Leveraging AI to improve mechanics problems, design, and prediction models.
 
-<a href="https://www.github.com/AP1S1T" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/AP1S1T?logo=github&style=for-the-badge&color=ef4444&labelColor=ffffff" /></a>
-
 ### Coding with
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
